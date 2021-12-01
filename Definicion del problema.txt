@@ -1,0 +1,3 @@
+Vamos a presentar una manera de visualizar la lista de desaparecidos en desastres naturales de 3 categorias (terremoto, huracane, tsunami)
+La clase desastre sera padre de las clases huracan, terremoto y tsunami
+Cada desastre tendra un arraylist de personas (desaparecidas)
